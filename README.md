@@ -34,7 +34,7 @@
 --------------------------
 
 YOUTUBE - https://www.youtube.com/watch?v=bY8Tx-yEXyg
-
+IMAGE - https://cdn.discordapp.com/attachments/1150778914243878933/1150778920061390888/DN.png
 
 # SUPPORT
 -------------
