@@ -9,5 +9,5 @@ Locales['en'] = {
   ['steal_a_plain'] = 'press ~INPUT_CONTEXT~ to steal a plain',
   ['drop_plain_off'] = 'press ~INPUT_CONTEXT~ to drop the plain off',
   ['cooldown'] = 'a plain robbery was recently completed. Wait %s seconds to steal another one.',
-  ['plain_robbery'] = 'Plain Robbery'
+  ['plain_robbery'] = 'Plane Robbery'
 }
