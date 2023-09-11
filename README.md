@@ -8,10 +8,15 @@
 [FREE / ESX ]
 
 > . Work only on esx legacy
+
 > . easy configurable
+
 > . can change location of blips & plain
+
 > . Optimised
-> . Customisable 
+
+> . Customisable
+
 > . get better notify 
 
 *More info will be in tebex , GitHub*
@@ -19,8 +24,10 @@
 # Dependencies
 ------------------
 
-> . DN NOTIFY -  { `GITHUB` - https://github.com/DN-SCRIPT/dn_notify , `TEBEX` https://dn-script.tebex.io/package/5864995 }
+> . DN NOTIFY -  { `GITHUB` - https://github.com/DN-SCRIPT/dn_notify }
+
 > . ESX POLICE JOB
+
 > . ES_EXTENDED
 
 # PREVIEW
@@ -28,11 +35,6 @@
 
 YOUTUBE - https://www.youtube.com/watch?v=bY8Tx-yEXyg
 
-# DN AUTO REVIVE
--------------- 
-
- TEBEX - https://dn-script.tebex.io/package/5896916
- GITHUB - https://github.com/DN-SCRIPT/dn_autorevive
 
 # SUPPORT
 -------------
